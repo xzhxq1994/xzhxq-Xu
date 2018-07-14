@@ -1,0 +1,55 @@
+*{padding: 0;
+    margin: 0;
+}
+
+header{
+    height: 60px;
+}
+#x{
+    width: 1200px;
+    margin: 0 auto;
+
+}
+#x{
+    text-align: right;
+    font-size: 14px;
+    color: #666;
+    line-height: 58px;
+}
+/*Â¥²ã*/
+#floor-1{height: 940px;
+    background-image: url("../image/qietu/3.jpg");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    text-align: center;
+}
+#fimg1{padding-top: 140px;
+
+
+}
+.ffont1{
+    font-size: 28px;
+    color: #43698f;
+    padding: 26px 0 90px;
+}
+.fbtnG{
+    font-size: 0;
+}
+.fbtnG>button{
+    width: 280px;
+    height: 60px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 22px;
+    color: #24a9f1;
+    outline: none;
+
+}
+.XU{
+    padding: 50px 0 20px 0;
+}
+.fbtnG>button:first-child{margin-right: 22px}
+.fbtnG i{font-size: 40px}
+
